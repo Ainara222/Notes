@@ -1,6 +1,6 @@
 ## **TYPESCRIPT** 
 
-### *Concepto de Docker:*
+### *Concepto de TS:*
 
 TypeScript es un superset de JavaScript desarrollado por Microsoft que agrega características como tipado estático opcional, clases e interfaces.
 *En el backend*, se puede utilizar con Node.js, permitiendo escribir código más legible y mantenible gracias al tipado estático, que ayuda a detectar errores en tiempo de compilación.
