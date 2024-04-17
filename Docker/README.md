@@ -29,5 +29,6 @@ Además, he descubierto la eficacia de Docker Compose, una herramienta que simpl
 [Udemy: Imagenes y contenedores](https://www.udemy.com/course/fundamentos-docker/)
 
 *Ejemplo de contenedores creados y de imagenes*
+
 ![image](https://github.com/Ainara222/Notes/assets/161636797/32eeed94-9875-4c55-84c2-a6c340e1ca2f)
 ![image](https://github.com/Ainara222/Notes/assets/161636797/8c98a852-f23b-4ee1-9392-91b8fd8f2736)
