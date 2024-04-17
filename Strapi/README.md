@@ -25,7 +25,7 @@ Esto instalará la última versión de Strapi **de forma global** en tu sistema.
 La interfaz de usuario de Strapi es intuitiva y fácil de usar.
 Proporciona un panel de administración donde puedes definir tus modelos de datos, configurar tus API, gestionar usuarios y roles, y realizar otras tareas relacionadas con la gestión de contenido.
 
-*Postman:*
+### *Concepto de Postman:*
 
 Postman es una herramienta popular para probar y documentar APIs. Puedes usar Postman para hacer peticiones HTTP a tu API de Strapi y probar su funcionamiento.
 Te permite enviar diferentes tipos de solicitudes (GET, POST, PUT, DELETE, etc.), adjuntar datos de formulario o JSON en el cuerpo de la solicitud, y ver las respuestas recibidas.
