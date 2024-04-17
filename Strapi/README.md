@@ -6,7 +6,7 @@
 Strapi es un CMS (Sistema de Gestión de Contenidos) de código abierto y sin cabeza (headless) que permite a los desarrolladores crear fácilmente APIs RESTful o GraphQL personalizadas para sus aplicaciones web o móviles. Con Strapi, puedes definir tus propios modelos de datos, configurar relaciones entre ellos y exponer estos datos a través de una API personalizada.
 
 Este es el curso de Udemy que me hice para aprender lo basico sobre Strapi y peticiones HTTP con postman..
-[*Curso de Udemy:*](https://www.udemy.com/course/strapi-v4-curso-introductorio-gratuito-desde-cero/) 
+[*Curso de Udemy*](https://www.udemy.com/course/strapi-v4-curso-introductorio-gratuito-desde-cero/) 
 
 
 *Requisitos:*
@@ -18,7 +18,7 @@ con el siguiente comando:
 'npm install strapi@latest -g'
 Esto instalará la última versión de Strapi **de forma global** en tu sistema.
 
-[*Documentación de Strapi:* ](https://docs.strapi.io/)
+[*Documentación de Strapi* ](https://docs.strapi.io/)
 
 
 *Interfaz de Usuario:*
@@ -31,7 +31,7 @@ Postman es una herramienta popular para probar y documentar APIs. Puedes usar Po
 Te permite enviar diferentes tipos de solicitudes (GET, POST, PUT, DELETE, etc.), adjuntar datos de formulario o JSON en el cuerpo de la solicitud, y ver las respuestas recibidas.
 Es una herramienta útil para el desarrollo y la depuración de APIs.
 
-[*Para descargar POSTMAN:*](https://www.postman.com/downloads/)
+[*Para descargar POSTMAN*](https://www.postman.com/downloads/)
 
 ⚠️ **¡Advertencia!**
 
