@@ -24,7 +24,6 @@ Es como enviar múltiples cartas en un solo sobre.
 
 ```
 
-
 *URL y Puerto:*
 Cuando haces una petición HTTP, necesitas especificar la URL del servidor al que deseas enviar la solicitud. Esto incluye el nombre del dominio o la dirección IP del servidor, así como la ruta específica a la que deseas acceder. Además, puedes especificar un puerto si el servidor utiliza un puerto diferente al puerto predeterminado (por ejemplo, 80 para HTTP y 443 para HTTPS).
 
@@ -32,6 +31,18 @@ Cuando haces una petición HTTP, necesitas especificar la URL del servidor al qu
 En Postman, puedes organizar tus solicitudes en colecciones. Una colección es simplemente un grupo de solicitudes relacionadas. Por ejemplo, podrías tener una colección para las solicitudes relacionadas con la autenticación, otra para las solicitudes relacionadas con la gestión de usuarios, etc.
 Dentro de una colección, cada solicitud se denomina "request". Un request en Postman representa una única solicitud HTTP que puedes enviar al servidor. Puedes configurar el tipo de solicitud (GET, POST, etc.), la URL, los parámetros, las cabeceras y el cuerpo de la solicitud según sea necesario para tu caso de uso.
 
+### *API TOKENS*
+
+### [*Crear una API token desde Strapi:*](../Strapi/README.md#api-tokens-desde-strapi) 
+
+Para añadir un API token a la peticion desde POSTMAN se hace de la siguiente manera:
+
+1. En la sección de encabezados, haz clic en el botón "Add Header" (Añadir Encabezado).
+2. En el campo "Key" (Clave), escribe "Authorization".
+3. En el campo "Value" (Valor), escribe "Bearer {tu-token}" donde {tu-token} es el token de tu API.
+4. Haz clic en "Save" (Guardar) para añadir el encabezado a la solicitud.
+
+**Una vez añadido, este encabezado de autorización enviará el token de API junto con tu solicitud.**
 
 
 
