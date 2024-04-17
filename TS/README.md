@@ -13,6 +13,8 @@ Permite definir tipos de datos para componentes, props y estados, lo que facilit
 Basado en Node.js, Strapi permite crear APIs RESTful o GraphQL personalizadas para tus aplicaciones.
 Utilizar TypeScript en Strapi proporciona beneficios adicionales, como un desarrollo más eficiente y autocompletado en tu entorno de desarrollo integrado(IDE).
 
+### [*Conceptos de Strapi:*](../Strapi/README.md#concepto-de-strapi) 
+
 [*Curso de ts que hice desde Udemy*](https://www.udemy.com/share/101skO3@Z3UBwAm29CFHa34Vd59nlcMxwnmA6_R99atvOZkNAdGKuBZsNGEVP6jGcN8nhBNV/) 
 
 [*proyecto que hice con el curso*](./bases/bases/index.html)
