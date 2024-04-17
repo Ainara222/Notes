@@ -33,7 +33,14 @@ Además, he descubierto la eficacia de Docker Compose, una herramienta que simpl
 ![image](https://github.com/Ainara222/Notes/assets/161636797/32eeed94-9875-4c55-84c2-a6c340e1ca2f)
 ![image](https://github.com/Ainara222/Notes/assets/161636797/8c98a852-f23b-4ee1-9392-91b8fd8f2736)
 
-## **TS** 
+# TIL
+:memo: Today I Learned
 
-###
+We at Stakater constantly learn new things. This is a repo to share those learnings. TILs are short Markdown documents (a few sentences + example code) explaining concepts, bits of syntax, commands, or tips we've recently learned.
+
+For new TILs, watch this repo
+
+# About
+
+We stole this idea from [jbranchaud/til](https://github.com/jbranchaud/til). Previously we had been gathering our learnings in a single gist but we hit the limit of comments on a gist; and we couldn't open our gist anymore!
 
