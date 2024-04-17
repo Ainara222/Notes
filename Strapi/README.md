@@ -55,3 +55,5 @@ Para crear una API token desde Strapi es muy sencillo, simplemente con navegar h
 La interfaz es muy intuitiva para crear una API token. Esto te devuelve una clave alfanumérica única que puedes utilizar para autenticar las solicitudes a tu API.
 
 Despues desde postman en este caso deberas añadir el token (Barer) al header de la peticion sino sin una autenticación adecuada, Strapi no podrá verificar la identidad del cliente que realiza la solicitud y no permitirá el acceso a los recursos protegidos por la API. En este caso, es probable que Strapi responda con un código de estado de error, como 401 Unauthorized, indicando que la solicitud no está autorizada.
+
+### [*API tokens desde Postman:*](../Postman/README.md#api-tokens) 
