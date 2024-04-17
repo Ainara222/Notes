@@ -58,7 +58,7 @@ La interfaz es muy intuitiva para crear una API token. Esto te devuelve una clav
 
 Despues desde postman en este caso deberas añadir el token (Bearer) al header de la peticion sino sin una autenticación adecuada, Strapi no podrá verificar la identidad del cliente que realiza la solicitud y no permitirá el acceso a los recursos protegidos por la API. En este caso, es probable que Strapi responda con un código de estado de error, como 401 Unauthorized, indicando que la solicitud no está autorizada.
 
-### [*añadir API token desde Postman*](../Postman/README.md#api-tokens) 
+### [*añadir API token desde Postman*](../Postman/Postman.md#api-tokens) 
 
 
 ### *Concepto de Nest.js:*
