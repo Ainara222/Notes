@@ -1,9 +1,12 @@
-# Notes 
+# Notas
 # TIL
 :memo: Today I Learned
 
-We at Aranova constantly learn new things. This is a repo to share those learnings. TILs are short Markdown documents (a few sentences + example code) explaining concepts, bits of syntax, commands, or tips we've recently learned.
-For new TILs, watch this repo.
+En Aranova constantemente aprendemos cosas nuevas. Este es un repositorio para compartir esos aprendizajes. Los TILs son documentos Markdown cortos (unas pocas frases + código de ejemplo) que explican conceptos, partes de la sintaxis, comandos o consejos que hemos aprendido recientemente.
 
-# About
-We stole this idea from [jbranchaud/til](https://github.com/jbranchaud/til). 
+Para nuevos TILs, sigue este repositorio.
+
+# Acerca de
+
+Robamos esta idea de [jbranchaud/til](https://github.com/jbranchaud/til).
+
