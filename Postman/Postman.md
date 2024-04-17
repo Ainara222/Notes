@@ -1,7 +1,7 @@
 
 ## **POSTMAN** 
 
-### [*Concepto de Postman:*](../Strapi/README.md#concepto-de-postman) 
+### [*Concepto de Postman:*](../Strapi/Strapi.md#concepto-de-postman) 
 
 ### *hacer peticiones HTTP*
 
@@ -34,7 +34,7 @@ Dentro de una colección, cada solicitud se denomina "request". Un request en Po
 
 ### *API TOKENS*
 
-### [*Crear una API token desde Strapi:*](../Strapi/README.md#api-tokens-desde-strapi) 
+### [*Crear una API token desde Strapi:*](../Strapi/Strapi.md#api-tokens-desde-strapi) 
 
 Para añadir un API token a la peticion desde POSTMAN se hace de la siguiente manera:
 
