@@ -6,7 +6,8 @@
 ### *hacer peticiones HTTP*
 
 *Tipo de Petición HTTP:*
-Postman te permite realizar varios tipos de peticiones HTTPy HTTPS, como GET, POST, PUT, DELETE, etc. Estas peticiones corresponden a las acciones que deseas realizar en el servidor al que estás enviando la solicitud.En las versiones más recientes, Postman también ha comenzado a ofrecer soporte experimental para gRPC (Protocolo de control remoto de Google).
+Postman te permite realizar varios tipos de peticiones HTTPy HTTPS, como GET, POST, PUT, DELETE, etc... Estas peticiones corresponden a las acciones que deseas realizar en el servidor al que estás enviando la solicitud.
+En las versiones más recientes, Postman también ha comenzado a ofrecer soporte experimental para GRPC (Protocolo de control remoto de Google).
 
 ```
 Ejemplo sencillo de diferencia entre HTTP Y GRPC
@@ -25,7 +26,7 @@ Es como enviar múltiples cartas en un solo sobre.
 ```
 
 *URL y Puerto:*
-Cuando haces una petición HTTP, necesitas especificar la URL del servidor al que deseas enviar la solicitud. Esto incluye el nombre del dominio o la dirección IP del servidor, así como la ruta específica a la que deseas acceder. Además, puedes especificar un puerto si el servidor utiliza un puerto diferente al puerto predeterminado (por ejemplo, 80 para HTTP y 443 para HTTPS).
+Cuando haces una petición HTTP, necesitas especificar la URL del servidor al que deseas enviar la solicitud. Esto incluye el nombre del dominio o la dirección IP del servidor, así como la ruta específica a la que deseas acceder. Además, puedes especificar un puerto si el servidor utiliza un puerto diferente al puerto predeterminado.
 
 *Colecciones y Request:*
 En Postman, puedes organizar tus solicitudes en colecciones. Una colección es simplemente un grupo de solicitudes relacionadas. Por ejemplo, podrías tener una colección para las solicitudes relacionadas con la autenticación, otra para las solicitudes relacionadas con la gestión de usuarios, etc.
