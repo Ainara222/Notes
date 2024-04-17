@@ -36,7 +36,7 @@ Es una herramienta útil para el desarrollo y la depuración de APIs.
 ⚠️ **¡Advertencia!**
 
 Yo en LINUX al descargar postman se crasheaba despues de iniciar sesion y para solucionarlo encontré lo siguiente: 
-
+```
 *Instalé Postman manualmente y el mismo problema comenzó a ocurrir después de iniciar sesión. Luego hice lo mismo manualmente, creé el directorio*
 
 '~/.var/app/com.getpostman.Postman/config/Postman/proxy'
@@ -44,4 +44,4 @@ Yo en LINUX al descargar postman se crasheaba despues de iniciar sesion y para s
 *y ejecuté el mismo comando que todos dicen que use.*
 
 'openssl req -subj '/C=US/CN=Postman Proxy' -new -newkey rsa:2048 -sha256 -days 365 -nodes -x509 -keyout postman-proxy-ca.key -out postman-proxy-ca.crt'
-
+```
