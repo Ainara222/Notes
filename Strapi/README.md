@@ -72,7 +72,11 @@ Despues desde postman en este caso deberas añadir el token (Barer) al header de
 
 - Soporte para TypeScript: NestJS está completamente escrito en TypeScript y proporciona soporte nativo para TypeScript, lo que te permite aprovechar las características del lenguaje,    como el tipado estático y la verificación de tipos en tiempo de compilación.
 
+- Node.js en NestJS: Node.js es la plataforma subyacente sobre la cual se ejecuta NestJS.
+  NestJS utiliza Node.js para ejecutar tu aplicación en el servidor, aprovechando su capacidad para manejar solicitudes HTTP y ejecutar código JavaScript en el servidor.
+
 **Instalación de NestJS CLI utilizando npm:**
+
 ```
 npm install -g @nestjs/cli
 ```
