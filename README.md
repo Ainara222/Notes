@@ -6,7 +6,7 @@ En Aranova constantemente aprendemos cosas nuevas. Este es un repositorio para c
 
 Para nuevos TILs, sigue este repositorio.
 
-# Acerca de
+### Acerca de
 
 Robamos esta idea de [jbranchaud/til](https://github.com/jbranchaud/til).
 
