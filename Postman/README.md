@@ -12,9 +12,15 @@ Postman te permite realizar varios tipos de peticiones HTTPy HTTPS, como GET, PO
 Ejemplo sencillo de diferencia entre HTTP Y GRPC
 ------------------------------------------------
 
-HTTP: Si usas HTTP, cada vez que un usuario envía un mensaje, la aplicación debe abrir un nuevo sobre (una solicitud HTTP) y colocar el mensaje dentro. Luego, la aplicación envía este sobre al servidor, que lo entrega al destinatario. Luego, repite este proceso para cada mensaje que se envíe. Es como enviar cartas por correo regular: una carta a la vez.
+HTTP: Si usas HTTP, cada vez que un usuario envía un mensaje, la aplicación debe abrir un nuevo sobre (una solicitud HTTP) y colocar el mensaje dentro.
+Luego, la aplicación envía este sobre al servidor, que lo entrega al destinatario.
+Luego, repite este proceso para cada mensaje que se envíe.
+Es como enviar cartas por correo regular: una carta a la vez.
 
-gRPC: Si usas gRPC, la aplicación puede colocar múltiples mensajes dentro de un solo sobre (una llamada gRPC). Luego, envía este sobre al servidor, que puede abrirlo y leer todos los mensajes al mismo tiempo. Esto es más rápido y eficiente que HTTP, ya que puedes enviar y recibir múltiples mensajes en una sola operación. Es como enviar múltiples cartas en un solo sobre.
+GRPC: Si usas gRPC, la aplicación puede colocar múltiples mensajes dentro de un solo sobre (una llamada gRPC).
+Luego, envía este sobre al servidor, que puede abrirlo y leer todos los mensajes al mismo tiempo.
+Esto es más rápido y eficiente que HTTP, ya que puedes enviar y recibir múltiples mensajes en una sola operación.
+Es como enviar múltiples cartas en un solo sobre.
 
 ```
 
