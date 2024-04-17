@@ -56,4 +56,29 @@ La interfaz es muy intuitiva para crear una API token. Esto te devuelve una clav
 
 Despues desde postman en este caso deberas añadir el token (Barer) al header de la peticion sino sin una autenticación adecuada, Strapi no podrá verificar la identidad del cliente que realiza la solicitud y no permitirá el acceso a los recursos protegidos por la API. En este caso, es probable que Strapi responda con un código de estado de error, como 401 Unauthorized, indicando que la solicitud no está autorizada.
 
-### [*añadir API token desde POstman:*](../Postman/README.md#api-tokens) 
+### [*añadir API token desde Postman:*](../Postman/README.md#api-tokens) 
+
+
+### *Concepto de Nest.js:*
+
+*¿Qué es NestJS?*
+
+- Basado en Express: NestJS utiliza Express.js como su base, lo que significa que puedes aprovechar la potencia de Express junto con las capacidades de NestJS.
+
+- Arquitectura modular: NestJS utiliza una arquitectura modular y proporciona una estructura organizada para tus aplicaciones.
+  Utiliza módulos, controladores y servicios para organizar y gestionar el código de manera eficiente.
+
+- Inyección de dependencias: NestJS utiliza el patrón de inyección de dependencias para gestionar las dependencias entre diferentes partes de la aplicación de forma limpia y desacoplada.
+
+- Soporte para TypeScript: NestJS está completamente escrito en TypeScript y proporciona soporte nativo para TypeScript, lo que te permite aprovechar las características del lenguaje,    como el tipado estático y la verificación de tipos en tiempo de compilación.
+
+**Instalación de NestJS CLI utilizando npm:**
+```
+npm install -g @nestjs/cli
+```
+
+**Crear una aplicación de Nest**
+
+```
+nest new nombre-de-tu-app-nest
+``` 
