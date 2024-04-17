@@ -6,7 +6,8 @@
 ### *hacer peticiones HTTP*
 
 *Tipo de Petición HTTP:*
-Postman te permite realizar varios tipos de peticiones HTTPy HTTPS, como GET, POST, PUT, DELETE, etc. Estas peticiones corresponden a las acciones que deseas realizar en el servidor al que estás enviando la solicitud.En las versiones más recientes, Postman también ha comenzado a ofrecer soporte experimental para gRPC (Protocolo de control remoto de Google).
+Postman te permite realizar varios tipos de peticiones HTTPy HTTPS, como GET, POST, PUT, DELETE, etc... Estas peticiones corresponden a las acciones que deseas realizar en el servidor al que estás enviando la solicitud.
+En las versiones más recientes, Postman también ha comenzado a ofrecer soporte experimental para GRPC (Protocolo de control remoto de Google).
 
 ```
 Ejemplo sencillo de diferencia entre HTTP Y GRPC
