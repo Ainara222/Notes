@@ -15,7 +15,9 @@ Para utilizar Strapi, necesitas tener instalado Node.js en tu sistema. Además, 
 *Descarga:*
 Para descargar Strapi desde su sitio web oficial (https://strapi.io/). Una vez descargado, puedes instalarlo fácilmente utilizando npm, el gestor de paquetes de Node.js,
 con el siguiente comando:
-'npm install strapi@latest -g'
+```
+npm install strapi@latest -g
+```
 Esto instalará la última versión de Strapi **de forma global** en tu sistema.
 
 [*Documentación de Strapi* ](https://docs.strapi.io/)
