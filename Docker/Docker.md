@@ -34,3 +34,20 @@ Además, he descubierto la eficacia de Docker Compose, una herramienta que simpl
 <br>
 <br>
 ![image](https://github.com/Ainara222/Notes/assets/161636797/8c98a852-f23b-4ee1-9392-91b8fd8f2736)
+
+
+para listar todas las imágenes Docker de tu sistema:
+
+*sudo docker images*
+
+Para obtener más información sobre las imágenes Docker existentes, utiliza el siguiente comando:
+
+*sudo docker images --help*
+
+Utiliza la opción -q a través del símbolo del sistema para listar los ID numéricos de las imágenes disponibles en tu sistema:
+
+*sudo docker images -q*
+
+Para listar todas las imágenes que no están etiquetadas ni referenciadas por un nuevo contenedor, utiliza este comando:
+
+*sudo docker images -f dangling=false*
