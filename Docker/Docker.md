@@ -51,3 +51,7 @@ Utiliza la opción -q a través del símbolo del sistema para listar los ID num�
 Para listar todas las imágenes que no están etiquetadas ni referenciadas por un nuevo contenedor, utiliza este comando:
 
 *sudo docker images -f dangling=false*
+
+ Para eliminar una imagen
+
+ *docker rmi imagen_id*
